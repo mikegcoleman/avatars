@@ -13,7 +13,7 @@ part_groups = {
     'facial_features': ['eyebrows', 'eyes', 'mouth', 'skin_color'],
     'hair': ['top', 'hair_color', 'facial_hair', 'facial_hair_color'],
     # ↓↓↓ remove the leading # to uncomment ↓↓↓
-    'other': ['accessory']
+    # 'other': ['accessory']
     # ↑↑↑ remove the leading # to uncomment ↑↑↑
 }
 
